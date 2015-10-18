@@ -1,3 +1,19 @@
+## Instructions
+You can check the *PA1_template.html* in any web browser
+OR, if you want to generate the R markdown script, you should:  
+
+- download to a directory the *PA1_template.Rmd* and data *activity.csv*, 
+- set the working directory via `setwd()`command,
+- and generate with *knitr*
+- required packages: dplyr, lubridate, lattice
+- tested in "windows" operating system
+
+## Contents
+- The *PA1_template.Rmd* script which generates *.md* and *.html* files
+- The *figures* directory with the generated images
+- This *README.md* file
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
